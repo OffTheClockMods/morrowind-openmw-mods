@@ -1,0 +1,2 @@
+GLOBAL: scripts/OtcSelfCheck/global.lua
+PLAYER: scripts/OtcSelfCheck/player.lua

@@ -1,0 +1,3 @@
+MENU: scripts/OtcInfiniteAmmo/menu.lua
+PLAYER: scripts/OtcInfiniteAmmo/player.lua
+GLOBAL: scripts/OtcInfiniteAmmo/global.lua

@@ -1,0 +1,19 @@
+# Build output
+bin/
+obj/
+TestResults/
+# Game / loader reference DLLs (copy them from your own install; never commit them)
+refs/
+*.dll
+*.pdb
+*.exe
+*.zip
+*.pak
+# Editors and OS
+.vs/
+.idea/
+*.user
+*.suo
+Thumbs.db
+.DS_Store
+*.log

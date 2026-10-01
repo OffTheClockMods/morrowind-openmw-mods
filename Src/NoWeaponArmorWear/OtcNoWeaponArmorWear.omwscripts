@@ -1,0 +1,3 @@
+MENU: scripts/OtcNoWear/menu.lua
+PLAYER: scripts/OtcNoWear/player.lua
+GLOBAL: scripts/OtcNoWear/global.lua
